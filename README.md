@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rohit Kumar.
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Data Structures & Alogorithms
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Data Structures & Alogorithms.
+- 💞️ I’m looking to collaborate with other Developer.
+- 📫 How to reach me :-rohitkr4400@gmail.com
 
 <!---
 Rohitkr4400/Rohitkr4400 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
